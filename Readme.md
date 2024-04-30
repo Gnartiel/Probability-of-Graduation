@@ -21,6 +21,7 @@
 - Nhóm 8_sinh viên có kq hk7: gồm có 22 cột của nhóm 7 và: 'diem_hk7', 'drl_hk7': tổng 24 cột
 - Nhóm 9_sinh viên có kq hk8: gồm có 24 cột của nhóm 8 và: 'diem_hk8': tổng 25 cột
 - Nhóm 10_sinh viên có kq hk8: gồm có 25 cột của nhóm 8 và 1 số thông tin khác:'loaixn', 'tongdiem_av', 'trangthai_av', 'sl_giam', 'xlhv', 'dtb_toankhoa', 'dtb_tichluy', 'sotc_tichluy': tổng 33 cột.
+
 Lần lượt sử dụng để huấn luyện trên các mô hình gồm Logistic Regression, Naive Bayes, Decision Tree, Support Vector Machine, K Nearest Neighbors, Random Forest và kiểm tra đánh giá dựa trên các độ đo Accuracy, Precision, Recall, F1 score.
 # Kết quả thực nghiệm
 - **Kết quả thực nghiệm trên từng nhóm**:
